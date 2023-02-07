@@ -14,7 +14,7 @@ export default function BagicHome() {
       <h4 class="text-xl pt-5 pb-5">
         Show your favorite Youtube, Tiktok, personal video to the other Player
       </h4>
-        <button onClick={() => router.push('/ready')} class="text-2xl py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+        <button onClick={() => router.push('/play')} class="text-2xl py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
         Play Game -&gt;
       </button>
     </div>
